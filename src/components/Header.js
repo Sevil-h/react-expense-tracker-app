@@ -1,7 +1,7 @@
 import React from "react";
 
-function Header({ title }) {
-  return <h2>{title}</h2>;
+function Header() {
+  return <h2>Expense Tracker</h2>;
 }
 
 export default Header;
